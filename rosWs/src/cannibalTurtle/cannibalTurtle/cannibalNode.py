@@ -94,6 +94,10 @@ class cannibalNode(Node):
 
         
     def posePlayerCallback(self,pos):
+        """
+        callback function to receive player position
+        """
+        
         self.posePlayer = pos
     
         
