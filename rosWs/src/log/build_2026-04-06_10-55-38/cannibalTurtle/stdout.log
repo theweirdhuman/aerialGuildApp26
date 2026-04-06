@@ -1,0 +1,22 @@
+running egg_info
+writing ../build/cannibalTurtle/cannibalTurtle.egg-info/PKG-INFO
+writing dependency_links to ../build/cannibalTurtle/cannibalTurtle.egg-info/dependency_links.txt
+writing entry points to ../build/cannibalTurtle/cannibalTurtle.egg-info/entry_points.txt
+writing requirements to ../build/cannibalTurtle/cannibalTurtle.egg-info/requires.txt
+writing top-level names to ../build/cannibalTurtle/cannibalTurtle.egg-info/top_level.txt
+reading manifest file '../build/cannibalTurtle/cannibalTurtle.egg-info/SOURCES.txt'
+writing manifest file '../build/cannibalTurtle/cannibalTurtle.egg-info/SOURCES.txt'
+running build
+running build_py
+copying cannibalTurtle/cannibalNode.py -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib/cannibalTurtle
+running install
+running install_lib
+copying /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib/cannibalTurtle/cannibalNode.py -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle
+byte-compiling /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle/cannibalNode.py to cannibalNode.cpython-312.pyc
+running install_data
+running install_egg_info
+removing '/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../build/cannibalTurtle/cannibalTurtle.egg-info to /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle-0.0.0-py3.12.egg-info
+running install_scripts
+Installing cannibalNode script to /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/cannibalTurtle
+writing list of installed files to '/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/install.log'

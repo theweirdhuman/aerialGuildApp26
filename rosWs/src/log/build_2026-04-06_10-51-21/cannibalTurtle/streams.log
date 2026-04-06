@@ -1,0 +1,37 @@
+[1.319s] Invoking command in '/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/cannibalTurtle': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/cannibalTurtle build --build-base /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build install --record /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/install.log --single-version-externally-managed install_data
+[1.688s] running egg_info
+[1.688s] creating ../build/cannibalTurtle/cannibalTurtle.egg-info
+[1.717s] writing ../build/cannibalTurtle/cannibalTurtle.egg-info/PKG-INFO
+[1.717s] writing dependency_links to ../build/cannibalTurtle/cannibalTurtle.egg-info/dependency_links.txt
+[1.718s] writing entry points to ../build/cannibalTurtle/cannibalTurtle.egg-info/entry_points.txt
+[1.718s] writing requirements to ../build/cannibalTurtle/cannibalTurtle.egg-info/requires.txt
+[1.718s] writing top-level names to ../build/cannibalTurtle/cannibalTurtle.egg-info/top_level.txt
+[1.718s] writing manifest file '../build/cannibalTurtle/cannibalTurtle.egg-info/SOURCES.txt'
+[1.778s] reading manifest file '../build/cannibalTurtle/cannibalTurtle.egg-info/SOURCES.txt'
+[1.780s] writing manifest file '../build/cannibalTurtle/cannibalTurtle.egg-info/SOURCES.txt'
+[1.780s] running build
+[1.781s] running build_py
+[1.781s] creating /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build
+[1.781s] creating /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib
+[1.781s] creating /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib/cannibalTurtle
+[1.782s] copying cannibalTurtle/cannibalNode.py -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib/cannibalTurtle
+[1.782s] copying cannibalTurtle/__init__.py -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib/cannibalTurtle
+[1.783s] running install
+[1.790s] running install_lib
+[1.820s] creating /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle
+[1.820s] copying /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib/cannibalTurtle/cannibalNode.py -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle
+[1.822s] copying /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build/lib/cannibalTurtle/__init__.py -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle
+[1.823s] byte-compiling /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle/cannibalNode.py to cannibalNode.cpython-312.pyc
+[1.826s] byte-compiling /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle/__init__.py to __init__.cpython-312.pyc
+[1.827s] running install_data
+[1.827s] creating /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/share/ament_index
+[1.828s] creating /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/share/ament_index/resource_index
+[1.828s] creating /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/share/ament_index/resource_index/packages
+[1.828s] copying resource/cannibalTurtle -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/share/ament_index/resource_index/packages
+[1.829s] copying package.xml -> /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/share/cannibalTurtle
+[1.830s] running install_egg_info
+[1.863s] Copying ../build/cannibalTurtle/cannibalTurtle.egg-info to /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages/cannibalTurtle-0.0.0-py3.12.egg-info
+[1.870s] running install_scripts
+[2.093s] Installing cannibalNode script to /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/cannibalTurtle
+[2.093s] writing list of installed files to '/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/install.log'
+[2.124s] Invoked command in '/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/cannibalTurtle' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/install/cannibalTurtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/cannibalTurtle build --build-base /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/build install --record /media/ashwin-k/ashwinStorage/1.insti/cfi/guild/aero/rosWs/src/build/cannibalTurtle/install.log --single-version-externally-managed install_data

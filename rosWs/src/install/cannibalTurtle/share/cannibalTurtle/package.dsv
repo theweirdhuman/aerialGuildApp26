@@ -1,0 +1,6 @@
+source;share/cannibalTurtle/hook/pythonpath.ps1
+source;share/cannibalTurtle/hook/pythonpath.dsv
+source;share/cannibalTurtle/hook/pythonpath.sh
+source;share/cannibalTurtle/hook/ament_prefix_path.ps1
+source;share/cannibalTurtle/hook/ament_prefix_path.dsv
+source;share/cannibalTurtle/hook/ament_prefix_path.sh
