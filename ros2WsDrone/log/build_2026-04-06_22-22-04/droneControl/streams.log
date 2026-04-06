@@ -1,0 +1,37 @@
+[1.130s] Invoking command in '/home/ashwin/ros2WsDrone/src/droneControl': PYTHONPATH=/home/ashwin/ros2WsDrone/build/droneControl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/droneControl build --build-base /home/ashwin/ros2WsDrone/build/droneControl/build install --record /home/ashwin/ros2WsDrone/build/droneControl/install.log --single-version-externally-managed install_data
+[1.509s] running egg_info
+[1.509s] creating ../../build/droneControl/droneControl.egg-info
+[1.509s] writing ../../build/droneControl/droneControl.egg-info/PKG-INFO
+[1.509s] writing dependency_links to ../../build/droneControl/droneControl.egg-info/dependency_links.txt
+[1.509s] writing entry points to ../../build/droneControl/droneControl.egg-info/entry_points.txt
+[1.510s] writing requirements to ../../build/droneControl/droneControl.egg-info/requires.txt
+[1.510s] writing top-level names to ../../build/droneControl/droneControl.egg-info/top_level.txt
+[1.510s] writing manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+[1.513s] reading manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+[1.514s] writing manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+[1.514s] running build
+[1.514s] running build_py
+[1.514s] creating /home/ashwin/ros2WsDrone/build/droneControl/build
+[1.514s] creating /home/ashwin/ros2WsDrone/build/droneControl/build/lib
+[1.514s] creating /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl
+[1.514s] copying droneControl/droneControlNode.py -> /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl
+[1.514s] copying droneControl/__init__.py -> /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl
+[1.514s] running install
+[1.514s] running install_lib
+[1.516s] creating /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl
+[1.516s] copying /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl/droneControlNode.py -> /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl
+[1.516s] copying /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl/__init__.py -> /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl
+[1.516s] byte-compiling /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl/droneControlNode.py to droneControlNode.cpython-310.pyc
+[1.517s] byte-compiling /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl/__init__.py to __init__.cpython-310.pyc
+[1.517s] running install_data
+[1.517s] creating /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index
+[1.517s] creating /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index/resource_index
+[1.517s] creating /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index/resource_index/packages
+[1.517s] copying resource/droneControl -> /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index/resource_index/packages
+[1.517s] copying package.xml -> /home/ashwin/ros2WsDrone/install/droneControl/share/droneControl
+[1.517s] running install_egg_info
+[1.521s] Copying ../../build/droneControl/droneControl.egg-info to /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl-0.0.0-py3.10.egg-info
+[1.521s] running install_scripts
+[1.563s] Installing control script to /home/ashwin/ros2WsDrone/install/droneControl/lib/droneControl
+[1.563s] writing list of installed files to '/home/ashwin/ros2WsDrone/build/droneControl/install.log'
+[1.600s] Invoked command in '/home/ashwin/ros2WsDrone/src/droneControl' returned '0': PYTHONPATH=/home/ashwin/ros2WsDrone/build/droneControl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/droneControl build --build-base /home/ashwin/ros2WsDrone/build/droneControl/build install --record /home/ashwin/ros2WsDrone/build/droneControl/install.log --single-version-externally-managed install_data

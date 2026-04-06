@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/droneControl/droneControl.egg-info/PKG-INFO
+../../build/droneControl/droneControl.egg-info/SOURCES.txt
+../../build/droneControl/droneControl.egg-info/dependency_links.txt
+../../build/droneControl/droneControl.egg-info/entry_points.txt
+../../build/droneControl/droneControl.egg-info/requires.txt
+../../build/droneControl/droneControl.egg-info/top_level.txt
+../../build/droneControl/droneControl.egg-info/zip-safe
+droneControl/__init__.py
+droneControl/droneControlNode.py
+resource/droneControl
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

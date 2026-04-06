@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/droneControl/droneControl.egg-info
+writing ../../build/droneControl/droneControl.egg-info/PKG-INFO
+writing dependency_links to ../../build/droneControl/droneControl.egg-info/dependency_links.txt
+writing entry points to ../../build/droneControl/droneControl.egg-info/entry_points.txt
+writing requirements to ../../build/droneControl/droneControl.egg-info/requires.txt
+writing top-level names to ../../build/droneControl/droneControl.egg-info/top_level.txt
+writing manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+reading manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+writing manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ashwin/ros2WsDrone/build/droneControl/build
+creating /home/ashwin/ros2WsDrone/build/droneControl/build/lib
+creating /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl
+copying droneControl/droneControlNode.py -> /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl
+copying droneControl/__init__.py -> /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl
+running install
+running install_lib
+creating /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl
+copying /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl/droneControlNode.py -> /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl
+copying /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl/__init__.py -> /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl
+byte-compiling /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl/droneControlNode.py to droneControlNode.cpython-310.pyc
+byte-compiling /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index
+creating /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index/resource_index
+creating /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index/resource_index/packages
+copying resource/droneControl -> /home/ashwin/ros2WsDrone/install/droneControl/share/ament_index/resource_index/packages
+copying package.xml -> /home/ashwin/ros2WsDrone/install/droneControl/share/droneControl
+running install_egg_info
+Copying ../../build/droneControl/droneControl.egg-info to /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl-0.0.0-py3.10.egg-info
+running install_scripts
+Installing control script to /home/ashwin/ros2WsDrone/install/droneControl/lib/droneControl
+writing list of installed files to '/home/ashwin/ros2WsDrone/build/droneControl/install.log'

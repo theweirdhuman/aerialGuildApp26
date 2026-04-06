@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/droneControl/droneControl.egg-info/PKG-INFO
+writing dependency_links to ../../build/droneControl/droneControl.egg-info/dependency_links.txt
+writing entry points to ../../build/droneControl/droneControl.egg-info/entry_points.txt
+writing requirements to ../../build/droneControl/droneControl.egg-info/requires.txt
+writing top-level names to ../../build/droneControl/droneControl.egg-info/top_level.txt
+reading manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+writing manifest file '../../build/droneControl/droneControl.egg-info/SOURCES.txt'
+running build
+running build_py
+copying droneControl/droneControlNode.py -> /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl
+running install
+running install_lib
+copying /home/ashwin/ros2WsDrone/build/droneControl/build/lib/droneControl/droneControlNode.py -> /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl
+byte-compiling /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl/droneControlNode.py to droneControlNode.cpython-310.pyc
+Sorry: TabError: inconsistent use of tabs and spaces in indentation (droneControlNode.py, line 40)
+running install_data
+running install_egg_info
+removing '/home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/droneControl/droneControl.egg-info to /home/ashwin/ros2WsDrone/install/droneControl/lib/python3.10/site-packages/droneControl-0.0.0-py3.10.egg-info
+running install_scripts
+Installing control script to /home/ashwin/ros2WsDrone/install/droneControl/lib/droneControl
+writing list of installed files to '/home/ashwin/ros2WsDrone/build/droneControl/install.log'
