@@ -15,7 +15,6 @@ class droneControl(Node):
             10
         )
 
-        # ✅ QoS FIX for MAVROS pose topic
         qos = QoSProfile(depth=10)
         qos.reliability = ReliabilityPolicy.BEST_EFFORT
 
@@ -53,7 +52,7 @@ class droneControl(Node):
         msg.pose.position.z = self.takeoff_alt
         self.pub.publish(msg)
 
-        # Debug (reduced spam)
+        # Prints state
         if self.counter % 10 == 0:
             self.get_logger().info(f"[STATE] {self.phase} | Z={self.current_z:.2f}")
 
