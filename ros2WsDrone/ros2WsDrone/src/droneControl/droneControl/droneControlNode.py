@@ -1,3 +1,22 @@
+'''
+FILENAME: droneControlNode.py
+DESCRIPTION: Controls the drone to rise to 5.5m, hover for 5s and then land.
+
+
+processes to run:
+
+make px4_sitl gz_x500
+
+./QGroundControl-x86_64.AppImage 
+
+ros2 run mavros mavros_node \
+  --ros-args \
+  -p fcu_url:=udp://:14540@127.0.0.1:14557
+
+ros2 run droneControl control
+'''
+
+
 import rclpy
 from rclpy.node import Node
 from geometry_msgs.msg import PoseStamped
